@@ -1,0 +1,2 @@
+# Reasoning_in_DLs_with_ELK
+In this presentation a brief introduction to what are the ALC and its extension is presented by means of Linkkeys, tools that are very useful to be able to identify two elements that are equal on an ontology.  Since the elements do not necessarily have to be the same every time, the emphasis is on the creation of an algorithm capable of reasoning and developing new knowledge about the ontology. This is done by adding a conditional to ALC with Linkkeys, thus developing ALC with Existential Linkkeys.  
